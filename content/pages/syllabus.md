@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course summary and information on meeting
+  times, course format, attendance, grading, and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3ddfe80a-01c8-5532-dbe2-93b938da6539
 ---
@@ -32,4 +36,4 @@ Grading is pass/fail. Attending all classes and completing all assignments satis
 There will be two assignments in this class:
 
 1.  Written Assignment: You are required to write a title and an abstract for a manuscript on fluorescent imaging that we will provide. An abstract should include a basic introduction of the subject, the important observations and the implication of the results. The total length of the abstract should be less than 150 words. The manuscript will be distributed on Ses #2, due by Ses #5 and discussed on Ses #6.
-2.  Oral Assignment: You will give a presentation to the class about a paper of your choice. These presentations will be during Ses #10. You should have selected your paper for approval by the instructors by Ses #8. See the [lecture notes section]({{< baseurl >}}/pages/lecture-notes) (Ses #10) for details about the format.
+2.  Oral Assignment: You will give a presentation to the class about a paper of your choice. These presentations will be during Ses #10. You should have selected your paper for approval by the instructors by Ses #8. See the {{% resource_link dcec5bca-ece1-1611-d396-ddb40337ba5c "lecture notes section" %}} (Ses #10) for details about the format.
